@@ -1,0 +1,11 @@
+.main-head{
+    background-color:aqua;
+    color: blueviolet;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+.para1{
+    font-size: 20px;
+    display:flex table-row;
+}
